@@ -97,7 +97,7 @@ a {
 a:hover,
 a:focus,
 a:active {
-  color: #e22b00;
+  color: #39b54a;
 }
 
 a:hover,
@@ -418,7 +418,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #e22b00;
+  background: #39b54a;
   position: absolute;
   left: -17px;
   top: 11px;
@@ -427,7 +427,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #e22b00;
+  color: #39b54a;
 }
 
 dd {
@@ -552,7 +552,7 @@ form,
 }
 
 .pace .pace-progress {
-  background: #e22b00;
+  background: #39b54a;
   position: fixed;
   z-index: 900;
   top: 0;
@@ -594,7 +594,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-  background-color: #e22b00;
+  background-color: #39b54a;
   width: 4px;
   height: 35px;
   border-radius: 2px;
@@ -820,7 +820,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #e22b00;
+  -webkit-text-fill-color: #39b54a;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -877,8 +877,8 @@ button.btn--primary,
 input[type='submit'].btn--primary,
 input[type='reset'].btn--primary,
 input[type='button'].btn--primary {
-  background: #e22b00;
-  border-color: #e22b00;
+  background: #39b54a;
+  border-color: #39b54a;
   color: #ffffff;
 }
 
@@ -920,8 +920,8 @@ button.btn--large {
 .btn--stroke,
 button.btn--stroke {
   background: transparent !important;
-  border: 0.2rem solid #e22b00;
-  color: #e22b00;
+  border: 0.2rem solid #39b54a;
+  color: #39b54a;
 }
 
 .btn--stroke:hover,
@@ -1147,7 +1147,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #e22b00;
+  color: #39b54a;
 }
 
 .stats-tabs li a em {
@@ -1328,7 +1328,7 @@ input::-moz-focus-inner {
   line-height: 1.333;
   text-transform: uppercase;
   letter-spacing: 0.25rem;
-  color: #e22b00;
+  color: #39b54a;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -1498,7 +1498,7 @@ input::-moz-focus-inner {
 
 .slick-slider .slick-dots li.slick-active button,
 .slick-slider .slick-dots li:hover button {
-  background: #e22b00;
+  background: #39b54a;
 }
 
 /* ===================================================================
@@ -1588,7 +1588,7 @@ input::-moz-focus-inner {
   letter-spacing: 0.25rem;
   margin-bottom: 4.8rem;
   margin-top: 0.9rem;
-  color: #e22b00;
+  color: #39b54a;
 }
 
 .header-nav p {
@@ -1724,7 +1724,7 @@ input::-moz-focus-inner {
   font-size: 1.3rem;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
-  color: #e22b00;
+  color: #39b54a;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
@@ -1942,8 +1942,8 @@ input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-  border-bottom: 2px solid #e22b00;
-  border-right: 2px solid #e22b00;
+  border-bottom: 2px solid #39b54a;
+  border-right: 2px solid #39b54a;
   content: '';
   display: block;
   height: 8px;
@@ -1967,7 +1967,7 @@ input::-moz-focus-inner {
   display: block;
   width: 2px;
   height: 10.2rem;
-  background-color: #e22b00;
+  background-color: #39b54a;
   position: absolute;
   right: 7.2rem;
   bottom: 0;
@@ -2027,7 +2027,7 @@ input::-moz-focus-inner {
 }
 
 .home-social span {
-  color: #e22b00;
+  color: #39b54a;
   right: 4.5rem;
   font-size: 1.3rem;
   opacity: 0;
@@ -2276,7 +2276,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
   padding-top: 16.2rem;
   padding-bottom: 9rem;
-  background-color: #e22b00;
+  background-color: #39b54a;
   color: #010507;
   position: relative;
 }
@@ -2476,7 +2476,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
   float: left;
-  color: #e22b00;
+  color: #39b54a;
   font-size: 4.8rem;
   margin-top: -0.6rem;
 }
@@ -3041,7 +3041,7 @@ html.no-csstransitions .home-content__main {
   padding: 0 2rem;
   margin: 0;
   color: #ffffff;
-  background: #e22b00;
+  background: #39b54a;
 }
 
 .s-contact .form-field label::after {
@@ -3052,14 +3052,14 @@ html.no-csstransitions .home-content__main {
   margin-top: -6px;
   border-top: 5px solid transparent;
   border-bottom: 5px solid transparent;
-  border-right: 5px solid #e22b00;
+  border-right: 5px solid #39b54a;
 }
 
 .contact__line {
   display: block;
   width: 2px;
   height: 20.4rem;
-  background-color: #e22b00;
+  background-color: #39b54a;
   position: absolute;
   left: 50%;
   top: -10.2rem;
@@ -3086,7 +3086,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-content h5 {
   margin-top: 0;
-  color: #e22b00;
+  color: #39b54a;
 }
 
 .contact-content input[type='email'],
@@ -3113,7 +3113,7 @@ html.no-csstransitions .home-content__main {
 .contact-content textarea:focus,
 .contact-content select:focus {
   color: #ffffff;
-  border-bottom: 1px solid #e22b00;
+  border-bottom: 1px solid #39b54a;
 }
 
 .contact-content button,
@@ -3205,7 +3205,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-social li a:hover,
 .contact-social li a:focus {
-  color: #e22b00;
+  color: #39b54a;
 }
 
 .contact-social li:last-child {
@@ -3228,7 +3228,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .message-success {
-  color: #e22b00;
+  color: #39b54a;
 }
 
 .message-warning i,
@@ -3426,7 +3426,7 @@ footer a {
 footer a:hover,
 footer a:focus,
 footer a:active {
-  color: #e22b00;
+  color: #39b54a;
 }
 
 footer .row {
@@ -3518,8 +3518,8 @@ footer .row {
   top: 0;
   right: 0;
   color: #ffffff;
-  background: #e22b00;
-  border-color: #e22b00;
+  background: #39b54a;
+  border-color: #39b54a;
   padding: 0 20px;
 }
 
